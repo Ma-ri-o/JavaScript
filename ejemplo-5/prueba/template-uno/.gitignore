@@ -1,0 +1,39 @@
+## editors
+/.idea
+/.vscode
+
+## system files
+.DS_Store
+
+## npm
+/node_modules/
+/npm-debug.log
+
+## testing
+/coverage/
+
+## temp folders
+/.tmp/
+
+# build
+/_site/
+/dist/
+/out-tsc/
+
+storybook-static
+custom-elements.json
+
+
+# Archivos y carpetas a ignorar
+../../.DS_Store
+../.DS_Store
+.editorconfig
+.gitignore
+LICENSE
+README.md
+
+
+package-lock.json
+package.json
+
+web-dev-server.config.mjs
